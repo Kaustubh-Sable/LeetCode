@@ -16,3 +16,4 @@ Follow up:
 You may only use constant extra space.
 Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.
 
+![Exmaple Tree](https://github.com/Kaustubh-Sable/LeetCode/blob/master/BestSolutions_Found/populating-next-right-pointers-binary-tree/example.jpg)
