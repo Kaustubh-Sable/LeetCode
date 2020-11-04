@@ -14,6 +14,8 @@ Return an list of non-empty reports in order of X coordinate.  Every report will
 
 **Example 1:**
 
+![Example1](https://github.com/Kaustubh-Sable/LeetCode/blob/master/BestSolutions_Found/vertical-order-traversal-of-a-binary-tree/Example1.jpg)
+
 Input: `[3,9,20,null,null,15,7]`<br>
 Output: `[[9],[3,15],[20],[7]]`<br>
 Explanation: <br>
@@ -25,6 +27,8 @@ The node with value 7 occurs at position (2, -2).<br>
 
 
 **Example 2:**
+
+![Example2](https://github.com/Kaustubh-Sable/LeetCode/blob/master/BestSolutions_Found/vertical-order-traversal-of-a-binary-tree/Example2.jpg)
 
 Input: `[1,2,3,4,5,6,7]`<br>
 Output: `[[4],[2],[1,5,6],[3],[7]]`<br>
